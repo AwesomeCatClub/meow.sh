@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=bash start.sh
+Name=Meow.SH
+Comment=Annoy people with meow noises!
+Icon=./favicon.png
