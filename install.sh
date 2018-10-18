@@ -26,7 +26,7 @@
 #            THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT                  #
 #            WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,                  #
 #            INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF             #
-#            MERCHANTABILITY, FITNESS FOR A PARTICULAR                  #
+#            MERCHANTABILITY, FITNES FOR A PARTICULAR                   #
 #            PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL             #
 #            THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR             #
 #            ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER             #
@@ -35,3 +35,11 @@
 #            SOFTWARE OR THE USE OR OTHER DEALINGS IN THE               #
 #            SOFTWARE.                                                  #
 #########################################################################
+
+echo "                               ____  _   _ "
+echo " _ __ ___   ___  _____      __/ ___|| | | |"
+echo "| '_ \` _ \ / _ \/ _ \ \ /\ / /\___ \| |_| |"
+echo "| | | | | |  __/ (_) \ V  V /  ___) |  _  |"
+echo "|_| |_| |_|\___|\___/ \_/\_(_)|____/|_| |_|"
+echo "meow.SH v0.1 BETA"
+
