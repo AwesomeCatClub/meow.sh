@@ -41,8 +41,10 @@ An annoying Bash script that annoys people who don't like cats :3
 [Webpage](awesomecatclub.github.io/meow.sh)
 ## Dependencies
 - Alsa - it uses Asound
-- Bash - the code it writen in Bash
+- Bash/sh - the code it writen in bash, but it can be run in sh.
 - Linux - this uses .desktop launchers, to start it, but you can start it manually if you are not on Linux.
+- curl - used for installation process
+- git - Used for installation process
 
 <br>
 
