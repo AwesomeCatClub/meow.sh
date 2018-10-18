@@ -35,6 +35,7 @@
 #            ARISING FROM, OUT OF OR IN CONNECTION WITH THE             #
 #            SOFTWARE OR THE USE OR OTHER DEALINGS IN THE               #
 #            SOFTWARE.                                                  #
+#                                                                       #
 #########################################################################
 ```
 An annoying Bash script that annoys people who don't like cats :3
